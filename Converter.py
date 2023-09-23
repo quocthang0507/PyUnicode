@@ -1,4 +1,5 @@
-import os
+# https://github.com/vuthaihoc/py-unicode-convert
+
 import re
 
 patterns = {
